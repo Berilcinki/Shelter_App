@@ -1,6 +1,6 @@
 # Animal Shelter Data Analysis System (AVL Tree in C)
 
-This project is a  animal shelter management and analysis system written in C using an AVL Tree data structure.
+This project was developed as part of my coursework to practice data structures and algorithms concepts such as AVL Tree data structure using C.
 
 ## Features
 
